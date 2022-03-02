@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    .page {
+        color: white;
+    }
+}
+
+.page2 {
+    color: white;
+}
+
+
+ul {
+    background-color: lightskyblue;
+    display: flex;
+    padding: 10px 20px;
+    li {
+        text-decoration: none;
+        margin: 10px;
+    }
+}
+
+footer {
+    background-color: gold;
+    color: blue;
+}
